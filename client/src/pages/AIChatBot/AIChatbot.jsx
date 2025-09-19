@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import "./AIChatbot.css";
 
-const AIChatbot = () => {
+export default function AIChatbot() {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([
     {
@@ -197,5 +197,3 @@ const AIChatbot = () => {
     </div>
   );
 };
-
-export default AIChatbot;

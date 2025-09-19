@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import ChatICON from "../../components/ChatICON";
-import AIChatbot from "../AIChatBot/AIChatBot";
+import AIChatbot from "../AIChatBot/AIChatbot";
 
 import StudentHomeContent from "./StudentHomeContent";
 import TeacherHomeContent from "./TeacherHomeContent";
