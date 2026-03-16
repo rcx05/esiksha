@@ -55,29 +55,6 @@ Team Name: Ever Rise
 Hackathon: Smart India Hackathon (SIH 2025)  
 Category: Software – Smart Education  
 
-### 👨‍💻 Team Members
-- Shivam Maurya (Team Leader)
-- Dharmesh kushwaha
-- Nitin   
-- Abhishek Kumar
-- Kabir
-- Ayushi
-
----
-
-## 👨‍💼 Team Leader Role & Responsibilities
-Name: Shivam Maurya  
-Role: Team Leader & Full Stack Developer  
-
-### Responsibilities:
-- ✅ Led the idea & development process for SIH 2025  
-- ✅ Designed and implemented **frontend (React, Tailwind)** and **backend (Node.js, Express)**  
-- ✅ Integrated **OTP-based authentication** for secure login/signup  
-- ✅ Developed **Student & Teacher dashboards** with role-based access  
-- ✅ Coordinated with DA/ML members for **AI-based recommendation system & chatbot** (future scope)  
-- ✅ Managed **team workflow, GitHub repo, and project presentation (PPT)**  
-
----
 
 ## 📸 UI/UX Screens
 - Landing Page (with CTA)  
