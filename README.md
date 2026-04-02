@@ -50,12 +50,6 @@ Other Tools: Figma (UI/UX), GitHub, Render, Netlify
 
 ---
 
-## 🧑‍🤝‍🧑 Team Info
-Team Name: Ever Rise  
-Hackathon: Smart India Hackathon (SIH 2025)  
-Category: Software – Smart Education  
-
-
 ## 📸 UI/UX Screens
 - Landing Page (with CTA)  
 - Student Signup/Login  
